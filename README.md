@@ -1,5 +1,5 @@
 # Copy-item.yazi
-A [Yazi](https://github.com/sxyazi/yazi) plugin to copy files to the Clipboard in Windows 
+A [Yazi](https://github.com/sxyazi/yazi) plugin to copy files to the Clipboard for Windows 
 
 
 https://github.com/GrimWatch/Copy-item.yazi/assets/69395353/cb18d789-8eaa-4d69-85af-aa36806afbeb
